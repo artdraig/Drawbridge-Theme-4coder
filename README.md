@@ -2,7 +2,7 @@
 Drawbridge theme ported into 4coder :D
 
 # Install
-drop 'theme-drawbridge.4coder' into the 'themes' folder in 4coder!
+download 'theme-drawbridge.4coder', then drop 'theme-drawbridge.4coder' into the 'themes' folder in 4coder!
 
 # Credits
 Original VSCode Theme: Drawbridge (From August Themes By inci-august)
