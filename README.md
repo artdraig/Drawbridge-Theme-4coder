@@ -1,7 +1,8 @@
 # Drawbridge-Theme-4coder
 Drawbridge theme ported into 4coder :D
 
-![Font Used: Vector Mono](Drawbridge.png)
+![Drawbridge Theme](Drawbridge.png)
+Font Used: Vector Mono
 
 # Install
 Download 'theme-drawbridge.4coder', then drop 'theme-drawbridge.4coder' into the 'themes' folder in 4coder!
