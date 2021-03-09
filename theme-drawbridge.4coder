@@ -59,4 +59,4 @@ fleury_color_token_minor_highlight = 0xFF7289FD;
 fleury_color_index_macro = 0xFF7289FD;
 fleury_color_brace_line = 0xFF242A40;
 fleury_color_brace_highlight = 0xFF33ABCC;
-fleury_color_brace_annotation = 0xFF7289FD;
+fleury_color_brace_annotation = 0xFF516AEC;
